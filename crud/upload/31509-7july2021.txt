@@ -1,0 +1,23 @@
+scoping,hoisting
+media queries
+history of api
+web workers editable content
+box model
+fixed,relative,absolute
+
+
+
+8-07-2021--arrays,ojects,iterable
+
+1.constants,expression,operators in php
+2.yesterday and today php file upload in git
+3.status mail
+4.timesheet
+5.form validation 
+6.web workers
+
+
+queries:
+1.github upoload
+2.constant echo
+3.how to print in the next line
