@@ -32,11 +32,19 @@
 <!DOCTYPE html>
 <head>
     <title>Register Page</title>
+
+    <link rel="stylesheet" type="text/css" href="http://localhost/crud/css/register.css">
+</head>
+<body>
+    <div id="container">
+    <img id="image" src="http://localhost/crud/css/usericon.jpg" height="70" width='70'/>
+
     <link rel="stylesheet" type="text/css" href="http://localhost/php/crud/css/register.css">
 </head>
 <body>
     <div id="container">
     <img id="image" src="http://localhost/php/crud/css/usericon.jpg" height="70" width='70'/>
+
     <form class="form" method="post" enctype="multipart/form-data" name="form">
       <h5 class="heading">REGISTER HERE</h5>
         <input class="inputs" name="name" id="FirstName"   type="text" max="20" placeholder="Full Name" value="<?php echo $name ;?>"/><br><br>

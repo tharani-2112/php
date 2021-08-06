@@ -7,6 +7,9 @@
   </head>
   <body>
     <div class="container">
+
+      <button><a href ="index.php">Add user</a></button>
+
       <button><a href ="signup.php">Add user</a></button>
       <button><a href ="logout.php">Logout</a></button>
         <table class="table">
