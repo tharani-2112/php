@@ -1,0 +1,16 @@
+colspan
+rowspan
+nav tag
+return false
+return true
+return
+pop up
+banner slider
+nav tag
+header ,footer,section tags
+
+
+
+*promise code
+*validation
+*github
